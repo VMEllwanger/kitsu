@@ -1,0 +1,6 @@
+*.css
+*.svg
+.eslintrc.js
+node_modules
+dist
+jest.config.js
